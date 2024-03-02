@@ -2,8 +2,8 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-char *ssid = "Tacineh";
-char *pwd = "64608996";
+char *ssid = "********"; // your wifi ssid
+char *pwd = "*********"; // your wifi password
 
 String HOST = "192.168.241.9";
 unsigned long time_req = 0;
